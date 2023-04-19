@@ -36,11 +36,11 @@ nav li a:hover {
     color: #d95d39;
 }
 
-#title1 {
+#title {
     position: relative;
     color: #e5e5e5;
     text-align: center;
-    top: 100px;
+    top: 80px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 250%;
