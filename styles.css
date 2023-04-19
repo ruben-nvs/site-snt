@@ -11,7 +11,7 @@ body {
 }
 
 nav ul {
-    background-color: #e40613;
+    background-color: #d95d39;
     position: absolute;
     right: 0;
     left: 0;
@@ -33,7 +33,7 @@ nav li a {
 
 nav li a:hover {
     background-color: #fff;
-    color: #e40613;
+    color: #d95d39;
 }
 
 #title1 {
@@ -41,14 +41,6 @@ nav li a:hover {
     color: #e5e5e5;
     text-align: center;
     top: 100px;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    font-size: 250%;
-}
-
-#title2, #title3 {
-    color: #e5e5e5;
-    text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 250%;
@@ -112,13 +104,13 @@ nav li a:hover {
 }
 
 .highlighted {
-    color: #e40613;
+    color: #d95d39;
     font-weight: 400;
     text-decoration: none;
 }
 
 .highlighted:hover {
-    color: rgb(228, 172, 177);
+    color: rgb(217, 160, 145);
 }
 
 #img2 {
@@ -137,64 +129,10 @@ nav li a:hover {
     margin-top: 50px;
 }
 
-.item {
-    background-color: #fff;
-    padding: 30px;
-    border-radius: 30px;
-    text-align: center;
-    margin: 5px;
-    display: inline-block;
-}
-
-.item a {
-    text-decoration: none;
-}
-
-.item img {
-    border-radius: 30px;
-}
-
-#bios {
-    text-align: center;
-}
-
-.item:hover{
-    transform: scale(1.025);
-    box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, 0.2);
-}
-
-.item h3 {
-    margin-top: 10px;
-    font-family: 'Montserrat', sans-serif;
-    color: #111827;
-    font-weight: 600;
-}
-
-.ex {
-    background-color: #fff;
-    padding: 15px;
-    border-radius: 30px;
-    margin: 5px;
-    display: inline-block;
-    height: 130px;
-}
-
-.ex:hover{
-    transform: scale(1.025);
-    box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, 0.2);
-}
-
-#exemples {
-    text-align: center;
-}
-
 #img4 {
     display: block;
     width: 35%;
     min-width: 400px;
     margin: auto;
     margin-top: 125px;
-}
-.list {
-    list-style-type: circle;
 }
