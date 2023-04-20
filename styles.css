@@ -216,7 +216,8 @@ body {
     }
 
     .exemple {
-        width: 400px;
+        width: 20%;
+        min-width: 200px;
         border-radius: 10px;
         display: inline-block;
         margin: 5px;
